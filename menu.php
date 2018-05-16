@@ -15,7 +15,16 @@
       <option value="3">ENVUELTOS EN ATUN ROJO Y BLANCO</option>
     </select>
     <div class="">
-      
+      <h1>CALIFORNIA</h1><br>
+      <h4>ENVUELTOS EN SESAMO O MASAGO</h4><br>
+      <div class="">
+        <img src="C:\Users\reime\Desktop\Caso2\"><br>
+        <h3>MAGURO ROLL</h3><h3>$6200</h3>
+        <h5>Kanikama y palta</h5>
+      </div>
+      <div class="">
+        <img src="imágenes\saiko_maguro.png">
+      </div>
     </div>
     <div class="">
 
